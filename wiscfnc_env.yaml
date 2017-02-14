@@ -11,3 +11,4 @@ dependencies:
 # also requires installation of keras (with backend of tensorflow): 
 #install tensorflow: $ conda install -c conda-forge tensorflow
 #install keras: $ pip install git+git://github.com/fchollet/keras.git --upgrade --no-deps
+# install nltk: $ pip install nltk
